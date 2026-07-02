@@ -8,6 +8,6 @@ namespace Group2Exercise
 	{
         public string FirstNames { get; set; }
         public string LastNames { get; set; }
-
+  
     }
 }
