@@ -7,5 +7,6 @@ namespace Group2Exercise
 	internal class Class
 	{
         public string LastNames { get; set; }
+        public string FirstName { get; set; }
     }
 }
