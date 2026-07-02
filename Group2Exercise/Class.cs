@@ -6,6 +6,6 @@ namespace Group2Exercise
 {
 	internal class Class
 	{
-        public string FirstName { get; set; }
+        public string FirstNam { get; set; }
     }
 }
